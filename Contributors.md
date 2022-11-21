@@ -62,6 +62,7 @@
 - [Andre Oliveira](https://github.com/andrepbo)
 - [Nemixe](https://github.com/nemixe)
 - [JusJira](https://github.com/JusJira)
+- [Prachi Kansal](https://github.com/prachi-0319)
 - [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Bhavya](https://github.com/Bhavya031)
 - [Walid1Dev](https://github.com/Walid1Dev)
